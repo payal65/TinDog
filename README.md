@@ -1,3 +1,4 @@
 # TinDog
 
-A tinder like websites for dog with the help of HTML , CSS and Bootstrap Framework.
+A tinder like websites for Dogs
+with the help of HTML , CSS and Bootstrap Framework.
